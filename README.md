@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @callumborwell
+- 👀 I’m interested in front-end development and graphic design
+- 🌱 I’m currently learning three JS improving CSS
+- 💞️ I’m looking to collaborate on visually captivating projects
+- 📫 How to reach me: callum.borwell@gmail.com | @MrBorwell on twitter
